@@ -1,0 +1,68 @@
+{\rtf1\ansi\ansicpg1251\cocoartf2706
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 <?xml version="1.0" encoding="UTF-8"?>\
+<ui version="4.0">\
+ <class>SizeLine</class>\
+ <widget class="QWidget" name="SizeLine">\
+  <property name="geometry">\
+   <rect>\
+    <x>0</x>\
+    <y>0</y>\
+    <width>400</width>\
+    <height>300</height>\
+   </rect>\
+  </property>\
+  <property name="windowTitle">\
+   <string>Form</string>\
+  </property>\
+  <layout class="QHBoxLayout" name="horizontalLayout">\
+   <item>\
+    <widget class="QRadioButton" name="radioButton_3">\
+     <property name="font">\
+      <font>\
+       <family>Times New Roman</family>\
+       <pointsize>18</pointsize>\
+      </font>\
+     </property>\
+     <property name="text">\
+      <string>1 mm</string>\
+     </property>\
+    </widget>\
+   </item>\
+   <item>\
+    <widget class="QRadioButton" name="radioButton_2">\
+     <property name="font">\
+      <font>\
+       <family>Times New Roman</family>\
+       <pointsize>18</pointsize>\
+      </font>\
+     </property>\
+     <property name="text">\
+      <string>2 mm</string>\
+     </property>\
+    </widget>\
+   </item>\
+   <item>\
+    <widget class="QRadioButton" name="radioButton">\
+     <property name="font">\
+      <font>\
+       <family>Times New Roman</family>\
+       <pointsize>18</pointsize>\
+      </font>\
+     </property>\
+     <property name="text">\
+      <string>3 mm</string>\
+     </property>\
+    </widget>\
+   </item>\
+  </layout>\
+ </widget>\
+ <resources/>\
+ <connections/>\
+</ui>\
+sizeline(}
